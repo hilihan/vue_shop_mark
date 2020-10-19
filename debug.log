@@ -1,0 +1,9 @@
+[1014/113126.295:ERROR:settings.cc(430)] Settings version is not 5
+[1014/114126.484:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\hilih\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\3ab16d9c-a69b-4118-a18d-8d5d303f56f2: 系统找不到指定的路径。 (0x3)
+[1014/114126.487:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\hilih\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\aee7261d-ab45-4a71-9951-973442199a0f: 系统找不到指定的路径。 (0x3)
+[1014/114126.487:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\hilih\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\b0bb6cb3-874e-4e5d-8e6d-b77466e8ab6b: 系统找不到指定的路径。 (0x3)
+[1014/114126.487:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\hilih\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\ca621446-6306-485c-9ace-fb4d31d94e1a: 系统找不到指定的路径。 (0x3)
+[1014/114126.487:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\hilih\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\e43f2b5a-0724-45fe-bf31-49f28ec59e78: 系统找不到指定的路径。 (0x3)
+[1014/114126.487:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\hilih\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\fd7aae36-59b9-49ad-a6b5-cba48a1ae68d: 系统找不到指定的路径。 (0x3)
+[1014/114126.487:ERROR:directory_reader_win.cc(43)] FindFirstFile: 系统找不到指定的路径。 (0x3)
+[1019/140205.123:ERROR:directory_reader_win.cc(43)] FindFirstFile: 系统找不到指定的路径。 (0x3)
