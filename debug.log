@@ -7,3 +7,5 @@
 [1014/114126.487:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\hilih\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\fd7aae36-59b9-49ad-a6b5-cba48a1ae68d: 系统找不到指定的路径。 (0x3)
 [1014/114126.487:ERROR:directory_reader_win.cc(43)] FindFirstFile: 系统找不到指定的路径。 (0x3)
 [1019/140205.123:ERROR:directory_reader_win.cc(43)] FindFirstFile: 系统找不到指定的路径。 (0x3)
+[1020/092352.159:ERROR:directory_reader_win.cc(43)] FindFirstFile: 系统找不到指定的路径。 (0x3)
+[1021/092444.506:ERROR:directory_reader_win.cc(43)] FindFirstFile: 系统找不到指定的路径。 (0x3)
