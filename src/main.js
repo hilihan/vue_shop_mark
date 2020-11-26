@@ -10,7 +10,7 @@ import TreeTable from 'vue-table-with-tree-grid'
 
 import axios from 'axios'
 //配置请求的根路径
-axios.defaults.baseURL = 'http://192.168.254.161:8888/api/private/v1/'
+axios.defaults.baseURL = 'http://192.168.254.2:8888/api/private/v1/'
 axios.interceptors.request.use(config => {
   //为请求头对象，添加Token验证的 Authorization 字段
   config.headers.Authorization = window.sessionStorage.getItem('token')

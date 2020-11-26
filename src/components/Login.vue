@@ -90,6 +90,16 @@
           this.$router.push('/home');
         })
       }
+    },
+    created(){
+      //登录页面敲击回车实现登录
+      var that = this;
+      document.onkeydown = function(e) {
+        var key = window.event.keyCode;
+        if (key == 13) {
+          that.login();
+          }
+      }
     }
   }
 </script>
